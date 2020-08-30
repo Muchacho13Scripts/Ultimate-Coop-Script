@@ -32,7 +32,7 @@ This script is used on your old buffed Account with max lvl One-Hit K.O. TemTems
 ## How-To
 
 ### 1. Download the Script
-   You can Download the latest release [here](https://github.com/Muchacho13Scripts/Ultimate-Coop-Script/releases)
+   You can Download the latest release [here](https://github.com/Muchacho13Scripts/Ultimate-Coop-Script/releases/latest)
    
    Click on 'Assets' and download the LUA file
    
